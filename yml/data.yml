@@ -1,0 +1,92 @@
+# ATENCIÓN: La INDENTACIÓN es MUY IMPORTANTE en este archivo.
+# Guiarse por los elementos ya agregados.
+# Cada nuevo elemento arranca con un guión.
+
+# Series de Esperanza
+- nombre: Esperanza
+  series:
+    - titulo: ABBA Padre
+      temas:
+        - titulo: 1. Padre Celestial
+          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/1. Padre Celestial.mp3
+        - titulo: 2. Padre Creador
+          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/2. Padre Creador.mp3
+        - titulo: 3. Padre de Israel
+          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/3. Padre de Israel.mp3
+    - titulo: ¿Conoces a Dios?
+      temas:
+        - titulo: 1. Padre Celestial
+          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/1. Padre Celestial.mp3
+        - titulo: 1. Padre Celestial
+          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/1. Padre Celestial.mp3
+    - titulo: Dios te busca
+    - titulo: El Nombre de Dios
+    - titulo: El significado del Bautismo
+    - titulo: El Misterio de la piedad
+    - titulo: El Misterio de Dios
+    - titulo: Sacrificio Eterno
+    - titulo: El significado de la Cruz
+    - titulo: Orando en el Nombre de Jesús
+    - titulo: Jehová peleará por tí
+    - titulo: Jesús, el Cristo Jesucristo
+
+# Series de Familia
+- nombre: Familia
+  series:
+    - titulo: El Espíritu de Apocalipsis en la Familia
+    - titulo: El Liderazgo Auténtico
+    - titulo: Jesús y la Crianza de los Hijos
+    - titulo: El Paradigma Bíblico del Liderazgo Familiar
+      temas:
+        - titulo: 1. Padre Celestial
+          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/1. Padre Celestial.mp3
+        - titulo: 2. Padre Creador
+          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/2. Padre Creador.mp3
+
+- nombre: Reavivamiento
+  series:
+    - titulo: Fe para Hoy
+    - titulo: La Visión Práxica de Dios para el Líder
+    - titulo: Testigos de Jesús
+    - titulo: La Verdadera Oración
+    - titulo: El Cristo del Apocalipsis
+    - titulo: La Revelación de Dios
+    - titulo: La Teología de la Desnudez
+    - titulo: Pidiendo en el Nombre de Jesús
+    - titulo: A los que Aman
+    - titulo: En el Monte con Jesús
+    - titulo: En el Monte con Jesús
+
+- nombre: Parábolas
+  series:
+    - titulo: La Parábola de los Talentos
+    - titulo: Las Parábolas de Jesús
+    - titulo: Las Parábolas de Jesús II
+
+- nombre: Espíritu Santo
+  series:
+    - titulo: Recibiendo el Espíritu Santo
+    - titulo: La Misión del Espíritu Santo
+    - titulo: La Praxis del Espíritu
+
+- nombre: Transformados por su Espíritu
+  series:
+    - titulo: Bariloche, Argentina
+    - titulo: San José, Costa Rica
+    - titulo: Walla Walla, USA
+    - titulo: Rampart 2012, TX, USA
+    - titulo: México, D.F.
+
+- nombre: Jóvenes
+  series:
+    - titulo: Creciendo en Cristo
+    - titulo: Los triunfos de Jehová
+    - titulo: La Praxis de Jesús
+    - titulo: La Revelación de Dios
+    - titulo: Apartados para Cristo
+
+- nombre: English
+  series:
+    - titulo: Growing in Christ
+    - titulo: Do you know God?
+    - titulo: The Spirit in Family Life
