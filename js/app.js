@@ -1,10 +1,22 @@
-var app = angular.module('StarterApp', ['ngMaterial', 'ngRoute']);
+// RqquireJS config
+requirejs.config({
+	"paths": {
+		"angular": "//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/"
+	}
+})
 
-app.controller('AppController', function($mdSidenav) {
-  var vm = this;
+// Main config
+define([
+		"angular",
+		"angular-animate",
+		"angular-route",
+		"controller"
+	],
+	function(angular, angularAnimate, angularAria) {
+		var app = angular.module('lveApp', ['ngAnimate', 'ngRoute'])
 
-  vm.toggleSidenav = function(menuId) {
-    $mdSidenav(menuId).toggle();
-  };
-
-});
+		app.controller('AppController', function() {
+			var vm = this
+		})
+	}
+)
