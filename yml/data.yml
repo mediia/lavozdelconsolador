@@ -155,7 +155,7 @@
 - nombre: Familia
   series:
     - titulo: El Espíritu de Apocalipsis en la Familia
-      folder: 
+      folder: EspirituApocalipsisFamilia
       temas:
         - titulo: 07 EspirituApocalipsisFamilia 07
         - titulo: 22 EspirituApocalipsisFamilia 22
@@ -316,7 +316,7 @@
       temas:
 		    - titulo: 2. La Naturaleza de la Inspiracion Profetica
 		    - titulo: 3. La Revelacion de Dios
-		    - titulo: 1. "Jesus-La Revelacion de Dios"
+		    - titulo: 1. 'Jesus-La Revelacion de Dios'
     - titulo: La Teología de la Desnudez
       folder: TeologiaDesnudez
       temas:
