@@ -155,12 +155,100 @@
 - nombre: Familia
   series:
     - titulo: El Espíritu de Apocalipsis en la Familia
-    - titulo: El Liderazgo Auténtico
-    - titulo: Jesús y la Crianza de los Hijos
-    - titulo: El Paradigma Bíblico del Liderazgo Familiar
+      folder: 
       temas:
-        - titulo: 1. Padre Celestial
-        - titulo: 2. Padre Creador
+        - titulo: 07 EspirituApocalipsisFamilia 07
+        - titulo: 22 EspirituApocalipsisFamilia 22
+        - titulo: 10 EspirituApocalipsisFamilia 10
+        - titulo: 20 EspirituApocalipsisFamilia 20
+        - titulo: 16 EspirituApocalipsisFamilia 16
+        - titulo: 03 EspirituApocalipsisFamilia 03
+        - titulo: 23 EspirituApocalipsisFamilia 23
+        - titulo: 17 EspirituApocalipsisFamilia 17
+        - titulo: 14 EspirituApocalipsisFamilia 14
+        - titulo: 11 EspirituApocalipsisFamilia 11
+        - titulo: 05 EspirituApocalipsisFamilia 05
+        - titulo: 06 EspirituApocalipsisFamilia 06
+        - titulo: 01 EspirituApocalipsisFamilia 01
+        - titulo: 18 EspirituApocalipsisFamilia 18
+        - titulo: 12 EspirituApocalipsisFamilia 12
+        - titulo: 24 EspirituApocalipsisFamilia 24
+        - titulo: 21 EspirituApocalipsisFamilia 21
+        - titulo: 04 EspirituApocalipsisFamilia 04
+        - titulo: 02 EspirituApocalipsisFamilia 02
+        - titulo: 15 EspirituApocalipsisFamilia 15
+        - titulo: 08 EspirituApocalipsisFamilia 08
+        - titulo: 09 EspirituApocalipsisFamilia 09
+        - titulo: 19 EspirituApocalipsisFamilia 19
+        - titulo: 13 EspirituApocalipsisFamilia 13
+    - titulo: El Liderazgo Auténtico
+      folder: LiderazgoAutentico
+      temas:
+        - titulo: 22. A los Lideres que Aman a Dios
+        - titulo: 11. Discernimiento de Pedro I
+        - titulo: 18. La Madurez Espiritual del Lider
+        - titulo: 16.  El Lider y la Lectura
+        - titulo: 17. Instruye al Nino en su Camino
+        - titulo: 14. Lideres Llenos del Espiritu Santo
+        - titulo: 02. El Don del Liderazgo I
+        - titulo: 08. Discernimiento de Pablo
+        - titulo: 06. Lider Natural y Espiritual
+        - titulo: 21. El ideal de Dios para con los Lideres II y III
+        - titulo: 15. Lideres llenos del Espiritu Santo II
+        - titulo: 03. El Don Liderazgo II
+        - titulo: 07. Como puedes ser un Lider
+        - titulo: 01. Se  Busca un Lider
+        - titulo: 20. El Ideal de Dios con los Lideres I
+        - titulo: 05. El Don del Liderazgo IV
+        - titulo: 23. A los Lideres que Aman a Dios II
+        - titulo: 09. Discernimiento de Pablo II
+        - titulo: 13. Caracteristicas del Lider
+        - titulo: 19. El Costo del Liderazgo
+        - titulo: 12. Discernimiento de Pedro II
+        - titulo: 04. El Don del Liderazgo III
+        - titulo: 10. Requisitos Domesticos
+    - titulo: El Espíritu en la Vida Familiar
+      folder: EspirituFamilia
+      temas:
+        - titulo: 13. Noe Condeno al Mundo
+        - titulo: 03. Elohim en el Trono
+        - titulo: 07. Noe entro en el Arca
+        - titulo: 09. Noe hallo Gracia
+        - titulo: 11. Pacto con Dios
+        - titulo: 06. Comiendo y Bebiendo
+        - titulo: 12. Y lo hizo asi Noe
+        - titulo: 01. Elohim
+        - titulo: 08. Y No Entendieron
+        - titulo: 14. A la vista de Dios
+        - titulo: 02. Ruaj Elohim
+        - titulo: 05. Los dias antes del Diluvio
+        - titulo: 10. Con Dios camino Noe
+        - titulo: 04. No Contendera mi Espiritu
+    - titulo: El Paradigma Bíblico del Liderazgo Familiar
+      folder: ParadigmaFamiliar
+      temas:
+        - titulo: 1. Liderazgo.mp3
+        - titulo: 8. Los resultados.mp3
+        - titulo: 7. La decision II.mp3
+        - titulo: 2. Paradigma.mp3
+        - titulo: 3. Modelo.mp3
+        - titulo: 5. El Hogar.mp3
+        - titulo: 6. La decision I.mp3
+        - titulo: 4. El amor.mp3
+    - titulo: Jesús y la Crianza de los Hijos
+      folder: JesusCrianzaHijos
+      temas:
+        - titulo: 07. Influencia Prenatal 7
+        - titulo: 02. Influencia Prenatal 2
+        - titulo: 10. Periodo Preescolar 1
+        - titulo: 08. Influencia Prenatal 8
+        - titulo: 03 Influencia Prenatal 3
+        - titulo: 01. Influencia Prenatal 1
+        - titulo: 05. Influencia Prenatal 5
+        - titulo: 09. Influencia Prenatal 9
+        - titulo: 06. Influencia Prenatal 6
+        - titulo: 11. Periodo Preescolar 2
+        - titulo: 04. Influencia Prenatal 4
 
 - nombre: Reavivamiento
   series:
