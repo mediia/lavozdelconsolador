@@ -67,7 +67,34 @@
         - titulo: 3. La Teologia del Bautismo II
         - titulo: 4. El Proposito del Bautismo
     - titulo: El Misterio de la piedad
+      folder: MisterioPiedad
+      temas:
+        - titulo: 1. El Verbo se hizo carne
+        - titulo: 2. Dios en carne
+        - titulo: 3. Justificados en el Espiritu
+        - titulo: 4. Visto de los Angeles
+        - titulo: 5. Predicado a los gentiles I
+        - titulo: 6. Predicado a los gentiles II
+        - titulo: 7. Creido en el mundo
+        - titulo: 8. Recibido en Gloria
     - titulo: El Misterio de Dios
+      folder: MisterioDios
+      temas:
+        - titulo: 01. El Evangelio de la Gracia
+        - titulo: 02. El Evangelio de la Gracia II
+        - titulo: 03. Quienes desean estudiar este Misterio
+        - titulo: 04. El Proposito del Misterio
+        - titulo: 05. El Proposito del Misterio II
+        - titulo: 06. El Proposito del Misterio III
+        - titulo: 07. La Comprension del Misterio
+        - titulo: 08. La Comprension del Misterio II-A
+        - titulo: 09. La Comprension del Misterio II-B
+        - titulo: 10. La Gracia y la Obediencia
+        - titulo: 11. La Gracia y la Fe
+        - titulo: 12. La Gracia y la Justificacion
+        - titulo: 13. El Dios de la Gracia
+        - titulo: 14. Que es la Gracia
+        - titulo: 15. Que es la Gracia II
     - titulo: Sacrificio Eterno
     - titulo: El significado de la Cruz
     - titulo: Orando en el Nombre de Jesús
