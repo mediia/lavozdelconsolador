@@ -32,12 +32,12 @@
 		</header>
 
 		<md-grid-list flex="80" md-cols-sm="1" md-cols-md="2" md-cols-lg="4" md-cols-gt-lg="4" md-row-height="47px" layout-fill>
-			<md-grid-tile ng-repeat="grupo in app.audios | orderBy: nombre" md-rowspan="{{ grupo.series.length + 1 }}">
+			<md-grid-tile ng-repeat="grupo in app.audios | orderBy: 'nombre'" md-rowspan="{{ grupo.series.length + 1 }}">
 				<md-list layout-fill class="lvc-grupo" layout-padding>
 					<md-list-item>
 						{{ grupo.nombre }}
 					</md-list-item>
-					<md-list-item ng-click="app.showAdvanced($event, serie)" ng-repeat="serie in grupo.series | orderBy: titulo" class="lvc-serie">
+					<md-list-item ng-click="app.serie($event, serie)" ng-repeat="serie in grupo.series | orderBy: 'folder'" class="lvc-serie">
 						{{ serie.titulo }}
 					</md-list-item>
 				</md-list>

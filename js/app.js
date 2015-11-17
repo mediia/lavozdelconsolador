@@ -9,7 +9,7 @@ appConfig.$inject = ['$mdThemingProvider']
 
 function appConfig($mdThemingProvider) {
 	$mdThemingProvider.theme('default')
-    .primaryPalette('cyan')
+		.primaryPalette('cyan')
 		.dark()
 }
 
@@ -19,17 +19,16 @@ function appController($http, $mdDialog, ngAudio) {
 	var vm = this
 
 	vm.audios = []
+	vm.serie = serie
 
 	$http.get('yml/data.yml')
 		.then(function(file) {
 			vm.audios = jsyaml.load(file.data)
 		})
 
-	vm.showAdvanced = showAdvanced
-
 	////////// Funciones //////////
 
-	function showAdvanced(event, serie) {
+	function serie(event, serie) {
 		console.log('showAdvanced')
 		$mdDialog.show({
 				controller: dialogController,
@@ -39,7 +38,9 @@ function appController($http, $mdDialog, ngAudio) {
 				clickOutsideToClose: true,
 				locals: {
 					serie: serie,
-					ngAudio: ngAudio
+					ngAudio: ngAudio,
+					$http,
+					$http
 				}
 			})
 			.then(function(answer) {
@@ -51,7 +52,9 @@ function appController($http, $mdDialog, ngAudio) {
 
 }
 
-function dialogController($scope, $mdDialog, serie, ngAudio) {
+function dialogController($scope, $mdDialog, serie, ngAudio, $http) {
+
+	var base = 'http://lavozdelconsolador.org/audioseries'
 
 	$scope.player = {
 		playing: null,
@@ -64,10 +67,9 @@ function dialogController($scope, $mdDialog, serie, ngAudio) {
 	$scope.hide = hide
 	$scope.cancel = hide
 
-	$scope.$on('$destroy', hide);
+	$scope.$on('$destroy', hide)
 
 	function play(tema) {
-
 		// Si se está reproduciendo este tema:
 		if ($scope.player.playing === tema) {
 			// Si está pausado
@@ -90,14 +92,17 @@ function dialogController($scope, $mdDialog, serie, ngAudio) {
 				$scope.player.audio.stop()
 			}
 			// Reproducir el tema solicitado
+			var file = tema.link || tema.titulo
 			$scope.player.playing = tema
 			$scope.player.paused = false
-			$scope.player.audio = ngAudio.play(tema.link)
+			$scope.player.audio = ngAudio.play(base+'/'+serie.folder+'/'+file+'.mp3')
 		}
 	}
 
 	function hide() {
-		$scope.player.audio.stop()
+		if ($scope.player.audio) {
+			$scope.player.audio.stop()
+		}
 		$mdDialog.hide()
 	}
 }

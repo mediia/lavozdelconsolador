@@ -6,19 +6,32 @@
 - nombre: Esperanza
   series:
     - titulo: ABBA Padre
+      folder: ABBA-Padre
       temas:
         - titulo: 1. Padre Celestial
-          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/1. Padre Celestial.mp3
         - titulo: 2. Padre Creador
-          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/2. Padre Creador.mp3
         - titulo: 3. Padre de Israel
-          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/3. Padre de Israel.mp3
+        - titulo: 4. Mi Padre Celestial
+        - titulo: 5. Vuestro Padre Celestial
+        - titulo: 6. Vuestro Padre Celestial II
+        - titulo: 7. ABBA Padre
+        - titulo: 8. ABBA Padre II
+        - titulo: 9. ABBA Padre III
     - titulo: ¿Conoces a Dios?
+      folder: ConocesaDios
       temas:
-        - titulo: 1. Padre Celestial
-          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/1. Padre Celestial.mp3
-        - titulo: 1. Padre Celestial
-          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/1. Padre Celestial.mp3
+        - titulo: 01. El nombre
+        - titulo: 02. Elohim
+        - titulo: 03. Jahweh I
+        - titulo: 04. Jahweh II
+        - titulo: 05. Jahweh de los Ejercitos I
+        - titulo: 06. Jahweh de los Ejercitos II
+        - titulo: 07. Quien es Jahweh de los Ejercitos
+        - titulo: 08. Jehova proveera
+        - titulo: 09. Adonai
+        - titulo: 10. Kurios I
+        - titulo: 11. Kurios II
+        - titulo: 12. Kurios III
     - titulo: Dios te busca
     - titulo: El Nombre de Dios
     - titulo: El significado del Bautismo
@@ -39,9 +52,7 @@
     - titulo: El Paradigma Bíblico del Liderazgo Familiar
       temas:
         - titulo: 1. Padre Celestial
-          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/1. Padre Celestial.mp3
         - titulo: 2. Padre Creador
-          link: http://lavozdelconsolador.org/audioseries/ABBA-Padre/2. Padre Creador.mp3
 
 - nombre: Reavivamiento
   series:

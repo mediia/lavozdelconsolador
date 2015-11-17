@@ -50,6 +50,9 @@ md-grid-list.md-layout-row > .flex-80 {
 		font-size: small;
 		background-color: rgba(255, 255, 255, .1);
 }
+.lvc-tema md-list-item {
+	white-space: nowrap;
+}
 md-list-item.lvc-serie .md-list-item-inner {
 	line-height: 1em;
 }
