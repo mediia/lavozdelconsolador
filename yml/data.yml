@@ -253,16 +253,115 @@
 - nombre: Reavivamiento
   series:
     - titulo: Fe para Hoy
+      folder: FeparaHOY-Espana2013
+      temas:
+        - titulo: 07.Evangelizacion de Exito II
+        - titulo: 06.Evangelizacion de Exito
+        - titulo: 10.Evangelizacion de Exito V
+        - titulo: 05.El Liderazgo Divino V
+        - titulo: 08.Evangelizacion de Exito III
+        - titulo: 04.El Liderazgo Divino IV
+        - titulo: 01.El Liderazgo Divino
+        - titulo: 09.Evangelizacion de Exito IV
+        - titulo: 02.El Liderazgo Divino II
+        - titulo: 03.El Liderazgo Divino III
     - titulo: La Visión Práxica de Dios para el Líder
+      folder: VisionPraxicadeDios
+      temas:
+        - titulo: 4. Proposito de la Vision de Dios para Mi
+        - titulo: 3. Entendiendo la Vision de Dios
+        - titulo: 6. Job Ve a Dios - se aborrece y se arrepiente
+        - titulo: 1. Trasciende mas alla de los Limites
+        - titulo: 5. Job Sabe de Dios pero No Conoce a Dios
+        - titulo: 7. Job Cree a Dios e Intercede por sus amigos
+        - titulo: 2. Significado de la Vision de Dios
     - titulo: Testigos de Jesús
+      folder: TestigosdeJesus
+      temas:
+        - titulo: 7 Sentencia de los Vigilantes
+        - titulo: 4 Moises Cumple la Mision
+        - titulo: 3 Moises Comparte la Vision
+        - titulo: 9 Isaias tiene la Vision de Dios
+        - titulo: 8 San Juan el Discipulo Amado
+        - titulo: 6 Daniel y la Vision
+        - titulo: 2 Ensenanos a contar nuestros dias
+        - titulo: 5 Perfiles de Moises
+        - titulo: 1 Testigos de Jesus
     - titulo: La Verdadera Oración
+      folder: VerdaderaOracion
+      temas:
+        - titulo: 2. Secretos de la Oracion
+        - titulo: 1. La Oracion De Un Hombre de Dios
     - titulo: El Cristo del Apocalipsis
+      folder: CristoApocalipsis
+      temas:
+        - titulo: 06. Siervos de Dios
+        - titulo: 09. El Testimonio de Jesus
+        - titulo: 03. El Misterio
+        - titulo: 04. Gabriel Revela el Misterio
+        - titulo: 05. El Libro de la Verdad
+        - titulo: 07. El Pacto en Sangre
+        - titulo: 14. Las Siete Iglesias
+        - titulo: 13. La Espada de su Boca
+        - titulo: 02. Obrar por Testimonio
+        - titulo: 16. Viene con las nubes
+        - titulo: 11. Gracia y Paz
+        - titulo: 15. Las dos Mujeres
+        - titulo: 10. El Testimonio de Jesus II
+        - titulo: 01. Tema Preparatorio
+        - titulo: 08. Alfa y Omega
+        - titulo: 12. Gracia y Paz II
     - titulo: La Revelación de Dios
+      folder: RevelacionDios
+      temas:
+		    - titulo: 2. La Naturaleza de la Inspiracion Profetica
+		    - titulo: 3. La Revelacion de Dios
+		    - titulo: 1. Jesus-La Revelacion de Dios
     - titulo: La Teología de la Desnudez
+      folder: TeologiaDesnudez
+      temas:
+        - titulo: 06. El Hombre Interior IV
+        - titulo: 04. El Hombre Interior II
+        - titulo: 02. De que estaban desnudos antes de pecar
+        - titulo: 08. Transformados con Poder en el hombre interior
+        - titulo: 07. El Espiritu Santo y el Hombre Interior
+        - titulo: 11. Llenos de la Plenitud de Dios
+        - titulo: 01. Vestidos de la Gloria de Dios
+        - titulo: 03. El hombre interior I
+        - titulo: 09. Las riquezas de la Gloria de Dios
+        - titulo: 05. El Hombre Interior III
+        - titulo: 10. Cristo Habitando en Nuestros Corazones
     - titulo: Pidiendo en el Nombre de Jesús
-    - titulo: A los que Aman
+      folder: PidiendoNombredeJesus
+      temas:
+        - titulo: 1. Pidiendo en Su Nombre
+        - titulo: 2. Orando en Su Nombre
+        - titulo: 4. Pablo Enviado de Dios
+        - titulo: 3. Orando en Su Nombre II
+        - titulo: 5. Pablo Enviado de Dios II
+    - titulo: A los que Aman a Dios
+      folder: LosqueAmanaDios
+      temas: 
+        - titulo: 6. Jueves
+        - titulo: 1. Sabado
+        - titulo: 8. Sabado
+        - titulo: 5. Miercoles
+        - titulo: 7. Viernes
+        - titulo: 3. Lunes
+        - titulo: 2. Domingo
+        - titulo: 4. Martes
     - titulo: En el Monte con Jesús
-    - titulo: En el Monte con Jesús
+      folder: MonteConJesus
+      temas: 
+        - titulo: 1. Seis dias depues
+        - titulo: 5. Los Elias de Hoy
+        - titulo: 9. La Revelacion de Dios
+        - titulo: 7. La Humildad y el Perdon
+        - titulo: 6. La Fe
+        - titulo: 8. Lo Espiritual y lo Carnal
+        - titulo: 3. Subir al Monte II
+        - titulo: 2. Subir al Monte I
+        - titulo: 4. A El oid
 
 - nombre: Parábolas
   series:
