@@ -96,10 +96,60 @@
         - titulo: 14. Que es la Gracia
         - titulo: 15. Que es la Gracia II
     - titulo: Sacrificio Eterno
+      folder: SacrificioEterno
+      temas:
+        - titulo: 7. Declarados Justos
+        - titulo: 9. Arnion-El Cordero Inmolado
+        - titulo: 3. Amnos-El Cordero de Dios
+        - titulo: 5. El Significado de Su Muerte
+        - titulo: 8. Redimidos para Dios
+        - titulo: 1. Persecucion a Muerte
+        - titulo: 6. Adoptados en Su Familia
+        - titulo: 2. Jesus Habla de Su Muerte
+        - titulo: 4. El Invento de Pablo
     - titulo: El significado de la Cruz
+      folder: SignificadoCruz
+      temas:
+        - titulo: 6. La Resurreccion I
+        - titulo: 2. Abandonado por Dios I
+        - titulo: 8. La Resurreccion III
+        - titulo: 4. Crucificado desde su nacimiento I
+        - titulo: 7. La Resurreccion II
+        - titulo: 1. Crucificale
+        - titulo: 3. Abandonado por Dios II
+        - titulo: 5. Crucificado desde su nacimiento II
     - titulo: Orando en el Nombre de Jesús
+      folder: OrandoNombreJesus
+      temas:
+        - titulo: 1. Orando en el Nombre de Jesus
+        - titulo: 3. Orando en el Espiritu 2
+        - titulo: 4. Orando en el Espiritu 3
+        - titulo: 5. Orando en el Espiritu 4
+        - titulo: 2. Orando en el Espiritu I
+        - titulo: 6. Orando en el Espiritu 5 - Un Nuevo Origen
     - titulo: Jehová peleará por tí
+      folder: JehovaPeleara
+      temas:
+        - titulo: 04 Moises parte II
+        - titulo: 03 Moises parte I
+        - titulo: 09 Josafat
+        - titulo: 02 La naturaleza de la profecia condicional parte II
+        - titulo: 07 Gedeon
+        - titulo: 01 La naturaleza de la profecia condicional parte I
+        - titulo: 06 Josue parte II
+        - titulo: 05 Josue Parte I
+        - titulo: 08 Elias
     - titulo: Jesús, el Cristo Jesucristo
+      folder: JesusCristoJesucristo
+      temas:
+        - titulo: 7. Jesus- Hijo de Dios.
+        - titulo: 2. Jesus- Es Miguel
+        - titulo: 3. Jesus- El Cordero
+        - titulo: 4. Jesus- El Verbo
+        - titulo: 6. Jesus- El Cristo
+        - titulo: 8. Jesus- Es Jehova
+        - titulo: 5. Jesus- El Angel de Jehova
+        - titulo: 1. La Adversidad
 
 # Series de Familia
 - nombre: Familia
