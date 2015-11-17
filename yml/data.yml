@@ -48,6 +48,17 @@
         - titulo: 11 La mision de la iglesia 2
         - titulo: 12 La mision de la iglesia 3
     - titulo: El Nombre de Dios
+      folder: NombreDeDios
+      temas:
+        - titulo: 1. Dios llamo a Moises
+        - titulo: 2. El Nombre de YHWH
+        - titulo: 3. El Nombre de YHWH II
+        - titulo: 4. El Nombre y el Metodo
+        - titulo: 5. El Nombre Ahora
+        - titulo: 6. El Nombre Ahora II
+        - titulo: 7. El Nombre y la Vara
+        - titulo: 8. El Corazon Endurecido
+        - titulo: 9. El Nombre y la Nube
     - titulo: El significado del Bautismo
     - titulo: El Misterio de la piedad
     - titulo: El Misterio de Dios
