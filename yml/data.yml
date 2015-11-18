@@ -366,8 +366,43 @@
 - nombre: Parábolas
   series:
     - titulo: La Parábola de los Talentos
+      - folder: ParabolaTalentos
+      - temas:
+        - titulo: 06. Los Talentos 6
+        - titulo: 05. Los Talentos 5
+        - titulo: 03. Los Talentos 3
+        - titulo: 07. Los Talentos 7
+        - titulo: 02. Los Talentos 2
+        - titulo: 01. Los Talentos 1
+        - titulo: 04. Los Talentos 4
+        - titulo: 08. Los Talentos 8
     - titulo: Las Parábolas de Jesús
+      - folder: ParabolasJesus
+      - temas:
+        - titulo: 05 Las Bodas
+        - titulo: 03. El Trigo y la Sizana
+        - titulo: 11. Los Siervos
+        - titulo: 02. El Tesoro
+        - titulo: 10. El Buen Samaritano
+        - titulo: 12. Ladron en la Noche
+        - titulo: 04. La Red
+        - titulo: 06. Los dos Hijos
+        - titulo: 01. El Sembrador
+        - titulo: 07. Los dos Hijos II
+        - titulo: 08. Inquilinos Malvados
+        - titulo: 13. Talentos y Juicio
+        - titulo: 09. El Patron y los Obreros de la Vina
     - titulo: Las Parábolas de Jesús II
+      - folder: ParabolasJesusII
+      - temas:
+        - titulo: 8. Los dos grupos V - El Hijo Perdido Dentro de la Casa
+        - titulo: 7. Los dos grupos IV - El Hijo Perdido II
+        - titulo: 4. Los dos Grupos I - Oveja
+        - titulo: 2. Bodas o Entierros
+        - titulo: 1. La parabola del Publicano y el Fariseo
+        - titulo: 5. Los dos Grupos II - Moneda
+        - titulo: 6. Los dos grupos III - El Hijo Perdido I
+        - titulo: 3. Barrida y Areglada
 
 - nombre: Espíritu Santo
   series:
