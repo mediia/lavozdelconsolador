@@ -407,8 +407,38 @@
 - nombre: Espíritu Santo
   series:
     - titulo: Recibiendo el Espíritu Santo
+      folder: RecibiendoEspirituSanto
+      temas:
+        - titulo: 4. Doble porcion de tu Espiritu
+        - titulo: 3. Eliseo
+        - titulo: 1. Jesus y el Espiritu Santo
+        - titulo: 5. Doble porcion de tu Espiritu II
+        - titulo: 6. La Obra del EspirituSanto
+        - titulo: 8. Los Discipulos Bautizados por el Espiritu Santo
+        - titulo: 2. Periodo Patriarcal
+        - titulo: 7. La Obra del EspirituSanto II
     - titulo: La Misión del Espíritu Santo
+      folder: MisionEspirituSanto
+      temas:
+        - titulo: 1. Vi al Espiritu
+        - titulo: 3. La Mision del Espiritu Santo I
+        - titulo: 2. El nuevo origen por El Espiritu
+        - titulo: 7. Los dos lados de la obra del Espiritu Santo
+        - titulo: 5. La Mision del Espiritu Santo III
+        - titulo: 6. El Comisionado Ceslestial
+        - titulo: 4. La Mision del Espiritu Santo II
     - titulo: La Praxis del Espíritu
+      folder: PraxisEspiritu
+      temas:
+        - titulo: 4. La Praxis del Espiritu 4
+        - titulo: 9. La Praxis del Espiritu 9
+        - titulo: 2. La Praxis del Espiritu 2
+        - titulo: 5. La Praxis del Espiritu 5
+        - titulo: 1. La Praxis del Espiritu 1
+        - titulo: 6. La Praxis del Espiritu 6
+        - titulo: 7. La Praxis del Espiritu 7
+        - titulo: 8. La Praxis del Espiritu 8
+        - titulo: 3. La Praxis del Espiritu 3
 
 - nombre: Transformados por su Espíritu
   series:
