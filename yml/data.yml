@@ -151,6 +151,178 @@
         - titulo: 5. Jesus- El Angel de Jehova
         - titulo: 1. La Adversidad
 
+- nombre: Reavivamiento
+  series:
+    - titulo: Fe para Hoy
+      folder: FeparaHOY-Espana2013
+      temas:
+        - titulo: 07.Evangelizacion de Exito II
+        - titulo: 06.Evangelizacion de Exito
+        - titulo: 10.Evangelizacion de Exito V
+        - titulo: 05.El Liderazgo Divino V
+        - titulo: 08.Evangelizacion de Exito III
+        - titulo: 04.El Liderazgo Divino IV
+        - titulo: 01.El Liderazgo Divino
+        - titulo: 09.Evangelizacion de Exito IV
+        - titulo: 02.El Liderazgo Divino II
+        - titulo: 03.El Liderazgo Divino III
+    - titulo: La Visión Práxica de Dios para el Líder
+      folder: VisionPraxicadeDios
+      temas:
+        - titulo: 4. Proposito de la Vision de Dios para Mi
+        - titulo: 3. Entendiendo la Vision de Dios
+        - titulo: 6. Job Ve a Dios - se aborrece y se arrepiente
+        - titulo: 1. Trasciende mas alla de los Limites
+        - titulo: 5. Job Sabe de Dios pero No Conoce a Dios
+        - titulo: 7. Job Cree a Dios e Intercede por sus amigos
+        - titulo: 2. Significado de la Vision de Dios
+    - titulo: Testigos de Jesús
+      folder: TestigosdeJesus
+      temas:
+        - titulo: 7 Sentencia de los Vigilantes
+        - titulo: 4 Moises Cumple la Mision
+        - titulo: 3 Moises Comparte la Vision
+        - titulo: 9 Isaias tiene la Vision de Dios
+        - titulo: 8 San Juan el Discipulo Amado
+        - titulo: 6 Daniel y la Vision
+        - titulo: 2 Ensenanos a contar nuestros dias
+        - titulo: 5 Perfiles de Moises
+        - titulo: 1 Testigos de Jesus
+    - titulo: La Verdadera Oración
+      folder: VerdaderaOracion
+      temas:
+        - titulo: 2. Secretos de la Oracion
+        - titulo: 1. La Oracion De Un Hombre de Dios
+    - titulo: El Cristo del Apocalipsis
+      folder: CristoApocalipsis
+      temas:
+        - titulo: 06. Siervos de Dios
+        - titulo: 09. El Testimonio de Jesus
+        - titulo: 03. El Misterio
+        - titulo: 04. Gabriel Revela el Misterio
+        - titulo: 05. El Libro de la Verdad
+        - titulo: 07. El Pacto en Sangre
+        - titulo: 14. Las Siete Iglesias
+        - titulo: 13. La Espada de su Boca
+        - titulo: 02. Obrar por Testimonio
+        - titulo: 16. Viene con las nubes
+        - titulo: 11. Gracia y Paz
+        - titulo: 15. Las dos Mujeres
+        - titulo: 10. El Testimonio de Jesus II
+        - titulo: 01. Tema Preparatorio
+        - titulo: 08. Alfa y Omega
+        - titulo: 12. Gracia y Paz II
+    - titulo: La Revelación de Dios
+      folder: RevelacionDios
+      temas:
+        - titulo: 2. La Naturaleza de la Inspiracion Profetica
+        - titulo: 3. La Revelacion de Dios
+        - titulo: 1. Jesus-La Revelacion de Dios
+    - titulo: La Teología de la Desnudez
+      folder: TeologiaDesnudez
+      temas:
+        - titulo: 06. El Hombre Interior IV
+        - titulo: 04. El Hombre Interior II
+        - titulo: 02. De que estaban desnudos antes de pecar
+        - titulo: 08. Transformados con Poder en el hombre interior
+        - titulo: 07. El Espiritu Santo y el Hombre Interior
+        - titulo: 11. Llenos de la Plenitud de Dios
+        - titulo: 01. Vestidos de la Gloria de Dios
+        - titulo: 03. El hombre interior I
+        - titulo: 09. Las riquezas de la Gloria de Dios
+        - titulo: 05. El Hombre Interior III
+        - titulo: 10. Cristo Habitando en Nuestros Corazones
+    - titulo: Pidiendo en el Nombre de Jesús
+      folder: PidiendoNombredeJesus
+      temas:
+        - titulo: 1. Pidiendo en Su Nombre
+        - titulo: 2. Orando en Su Nombre
+        - titulo: 4. Pablo Enviado de Dios
+        - titulo: 3. Orando en Su Nombre II
+        - titulo: 5. Pablo Enviado de Dios II
+    - titulo: A los que Aman a Dios
+      folder: LosqueAmanaDios
+      temas:
+        - titulo: 6. Jueves
+        - titulo: 1. Sabado
+        - titulo: 8. Sabado
+        - titulo: 5. Miercoles
+        - titulo: 7. Viernes
+        - titulo: 3. Lunes
+        - titulo: 2. Domingo
+        - titulo: 4. Martes
+    - titulo: En el Monte con Jesús
+      folder: MonteConJesus
+      temas:
+        - titulo: 1. Seis dias depues
+        - titulo: 5. Los Elias de Hoy
+        - titulo: 9. La Revelacion de Dios
+        - titulo: 7. La Humildad y el Perdon
+        - titulo: 6. La Fe
+        - titulo: 8. Lo Espiritual y lo Carnal
+        - titulo: 3. Subir al Monte II
+        - titulo: 2. Subir al Monte I
+        - titulo: 4. A El oid
+    - titulo: Mateo
+      folder: SerieMateo
+      temas:
+        - titulo: 05 Mateo - Tema 5
+        - titulo: 16 Mateo - Tema 16
+        - titulo: 18 Mateo - Tema 18
+        - titulo: 11 Mateo - Tema 11
+        - titulo: 36 Mateo - Tema 36
+        - titulo: 48 Mateo - Tema 48
+        - titulo: 56 Mateo - Tema 56
+        - titulo: 47 Mateo - Tema 47
+        - titulo: 39 Mateo - Tema 39
+        - titulo: 30 Mateo - Tema 30
+        - titulo: 03 Mateo - Tema 3
+        - titulo: 10 Mateo - Tema 10
+        - titulo: 06 Mateo - Tema 6
+        - titulo: 08 Mateo - Tema 8
+        - titulo: 17 Mateo - Tema 17
+        - titulo: 09 Mateo - Tema 9
+        - titulo: 51 Mateo - Tema 51
+        - titulo: 31 Mateo - Tema 31
+        - titulo: 14 Mateo - Tema 14
+        - titulo: 26 Mateo - Tema 26
+        - titulo: 34 Mateo - Tema 34
+        - titulo: 37 Mateo - Tema 37
+        - titulo: 45 Mateo - Tema 45
+        - titulo: 33 Mateo - Tema 33
+        - titulo: 49 Mateo - Tema 49
+        - titulo: 40 Mateo - Tema 40
+        - titulo: 02 Mateo - Tema 2
+        - titulo: 12 Mateo - Tema 12
+        - titulo: 46 Mateo - Tema 46
+        - titulo: 15 Mateo - Tema 15
+        - titulo: 54 Mateo - Tema 54
+        - titulo: 20 Mateo - Tema 20
+        - titulo: 19 Mateo - Tema 19
+        - titulo: 42 Mateo - Tema 42
+        - titulo: 27 Mateo - Tema 27
+        - titulo: 55 Mateo - Tema 55
+        - titulo: 52 Mateo - Tema 52
+        - titulo: 29 Mateo - Tema 29
+        - titulo: 23 Mateo - Tema 23
+        - titulo: 44 Mateo - Tema 44
+        - titulo: 35 Mateo - Tema 35
+        - titulo: 13 Mateo - Tema 13
+        - titulo: 22 Mateo - Tema 22
+        - titulo: 01 Mateo - Tema 1
+        - titulo: 25 Mateo - Tema 25
+        - titulo: 41 Mateo - Tema 41
+        - titulo: 53 Mateo - Tema 53
+        - titulo: 28 Mateo - Tema 28
+        - titulo: 32 Mateo - Tema 32
+        - titulo: 24 Mateo - Tema 24
+        - titulo: 43 Mateo - Tema 43
+        - titulo: 04 Mateo - Tema 4
+        - titulo: 07 Mateo - Tema 7
+        - titulo: 21 Mateo - Tema 21
+        - titulo: 50 Mateo - Tema 50
+        - titulo: 38 Mateo - Tema 38
+
 # Series de Familia
 - nombre: Familia
   series:
@@ -250,177 +422,75 @@
         - titulo: 11. Periodo Preescolar 2
         - titulo: 04. Influencia Prenatal 4
 
-- nombre: Reavivamiento
+- nombre: Transformados por su Espíritu
   series:
-    - titulo: Fe para Hoy
-      folder: FeparaHOY-Espana2013
+    - titulo: Bariloche, Argentina
+      folder: TransformadosporSuEspiritu/01Bariloche
       temas:
-        - titulo: 07.Evangelizacion de Exito II
-        - titulo: 06.Evangelizacion de Exito
-        - titulo: 10.Evangelizacion de Exito V
-        - titulo: 05.El Liderazgo Divino V
-        - titulo: 08.Evangelizacion de Exito III
-        - titulo: 04.El Liderazgo Divino IV
-        - titulo: 01.El Liderazgo Divino
-        - titulo: 09.Evangelizacion de Exito IV
-        - titulo: 02.El Liderazgo Divino II
-        - titulo: 03.El Liderazgo Divino III
-    - titulo: La Visión Práxica de Dios para el Líder
-      folder: VisionPraxicadeDios
+        - titulo: 09. Cristo Nuestra Pascua
+        - titulo: 05. Jehova los Vistio de Pieles
+        - titulo: 07. El Cordero de la Pascua
+        - titulo: 03. Antes de la Fundacion del Mundo
+        - titulo: 04. Antes de la Fundacion del Mundo II
+        - titulo: 06. Dios se Proveera de Cordero
+        - titulo: 11. Cristo Nuestra Pascua III
+        - titulo: 12. El Cordero Mediador
+        - titulo: 02. El Cordero de Dios II
+        - titulo: 10. Cristo Nuestra Pascua II
+        - titulo: 13. El Cordero Mediador II
+        - titulo: 08. Habitare entre Ellos
+        - titulo: 01. El Cordero de Dios
+    - titulo: San José, Costa Rica
+      folder: TransformadosporSuEspiritu/02CostaRica
       temas:
-        - titulo: 4. Proposito de la Vision de Dios para Mi
-        - titulo: 3. Entendiendo la Vision de Dios
-        - titulo: 6. Job Ve a Dios - se aborrece y se arrepiente
-        - titulo: 1. Trasciende mas alla de los Limites
-        - titulo: 5. Job Sabe de Dios pero No Conoce a Dios
-        - titulo: 7. Job Cree a Dios e Intercede por sus amigos
-        - titulo: 2. Significado de la Vision de Dios
-    - titulo: Testigos de Jesús
-      folder: TestigosdeJesus
+        - titulo: 05. Conocer a Dios-Una Actitud II
+        - titulo: 11. El Trono de Dios-El Espiritu Santo
+        - titulo: 04. Conocer a Dios-Una Actitud
+        - titulo: 14. Su Benignidad te Guia al Arrepentimiento
+        - titulo: 10. El Trono de Dios-El Padre
+        - titulo: 02. Miembro o Discipulo
+        - titulo: 13. Cristianismo-Asunto Legal
+        - titulo: 07. Encuentros de Arrepentimiento
+        - titulo: 06.Necesitamos Conocer a Dios
+        - titulo: 08. Quien es Dios
+        - titulo: 12. El Noe Moderno
+        - titulo: 03. El Significado de Conocer a Dios
+        - titulo: 09. Juan Conocio a la Deidad
+        - titulo: 15. Llamando Pecadores al Arrepentimiento
+        - titulo: 01. Mi Alma Tiene Contentamiento
+    - titulo: Walla Walla, USA
+      folder: TransformadosporSuEspiritu/03WallaWalla
       temas:
-        - titulo: 7 Sentencia de los Vigilantes
-        - titulo: 4 Moises Cumple la Mision
-        - titulo: 3 Moises Comparte la Vision
-        - titulo: 9 Isaias tiene la Vision de Dios
-        - titulo: 8 San Juan el Discipulo Amado
-        - titulo: 6 Daniel y la Vision
-        - titulo: 2 Ensenanos a contar nuestros dias
-        - titulo: 5 Perfiles de Moises
-        - titulo: 1 Testigos de Jesus
-    - titulo: La Verdadera Oración
-      folder: VerdaderaOracion
+        - titulo: 6. El Espiritu Habilita los Dones Espirituales
+        - titulo: 2. Lucas-Transformado por Su Espiritu
+        - titulo: 1. Lucas-Medico Misionero
+        - titulo: 5. El Espiritu nos Transforma a Su Imagen
+        - titulo: 3. Interes del Espiritu en la Familia
+        - titulo: 4. Dios Cambia la Mente Humana
+    - titulo: Rampart 2012, TX, USA
+      folder: TransformadosporSuEspiritu/04Rampart2012
       temas:
-        - titulo: 2. Secretos de la Oracion
-        - titulo: 1. La Oracion De Un Hombre de Dios
-    - titulo: El Cristo del Apocalipsis
-      folder: CristoApocalipsis
+        - titulo: 08. Raiz de Pecado
+        - titulo: 07. El Arrepentimiento desde la Raiz de Pecado
+        - titulo: 04. El Arrepentimiento es una Experiencia Cotidiana
+        - titulo: 02. El Arrepentimiento es un Regalo de Dios
+        - titulo: 06. El Arrepentimiento es lo que Dios hace en ti
+        - titulo: 05. El Arrepentimiento es ser Convertido en otra Persona
+        - titulo: 09. El Castigo del Fuego Eterno
+        - titulo: 01. Elementos Claves para el Arrepentimiento
+        - titulo: 10. El Arrepentimiento Negativo y Positivo
+        - titulo: 03. El Arrepentimiento es un Regalo de Dios II
+    - titulo: México, D.F.
+      folder: TransformadosporSuEspiritu/05Mexico2013
       temas:
-        - titulo: 06. Siervos de Dios
-        - titulo: 09. El Testimonio de Jesus
-        - titulo: 03. El Misterio
-        - titulo: 04. Gabriel Revela el Misterio
-        - titulo: 05. El Libro de la Verdad
-        - titulo: 07. El Pacto en Sangre
-        - titulo: 14. Las Siete Iglesias
-        - titulo: 13. La Espada de su Boca
-        - titulo: 02. Obrar por Testimonio
-        - titulo: 16. Viene con las nubes
-        - titulo: 11. Gracia y Paz
-        - titulo: 15. Las dos Mujeres
-        - titulo: 10. El Testimonio de Jesus II
-        - titulo: 01. Tema Preparatorio
-        - titulo: 08. Alfa y Omega
-        - titulo: 12. Gracia y Paz II
-    - titulo: La Revelación de Dios
-      folder: RevelacionDios
-      temas:
-        - titulo: 2. La Naturaleza de la Inspiracion Profetica
-        - titulo: 3. La Revelacion de Dios
-        - titulo: 1. Jesus-La Revelacion de Dios
-    - titulo: La Teología de la Desnudez
-      folder: TeologiaDesnudez
-      temas:
-        - titulo: 06. El Hombre Interior IV
-        - titulo: 04. El Hombre Interior II
-        - titulo: 02. De que estaban desnudos antes de pecar
-        - titulo: 08. Transformados con Poder en el hombre interior
-        - titulo: 07. El Espiritu Santo y el Hombre Interior
-        - titulo: 11. Llenos de la Plenitud de Dios
-        - titulo: 01. Vestidos de la Gloria de Dios
-        - titulo: 03. El hombre interior I
-        - titulo: 09. Las riquezas de la Gloria de Dios
-        - titulo: 05. El Hombre Interior III
-        - titulo: 10. Cristo Habitando en Nuestros Corazones
-    - titulo: Pidiendo en el Nombre de Jesús
-      folder: PidiendoNombredeJesus
-      temas:
-        - titulo: 1. Pidiendo en Su Nombre
-        - titulo: 2. Orando en Su Nombre
-        - titulo: 4. Pablo Enviado de Dios
-        - titulo: 3. Orando en Su Nombre II
-        - titulo: 5. Pablo Enviado de Dios II
-    - titulo: A los que Aman a Dios
-      folder: LosqueAmanaDios
-      temas: 
-        - titulo: 6. Jueves
-        - titulo: 1. Sabado
-        - titulo: 8. Sabado
-        - titulo: 5. Miercoles
-        - titulo: 7. Viernes
-        - titulo: 3. Lunes
-        - titulo: 2. Domingo
-        - titulo: 4. Martes
-    - titulo: En el Monte con Jesús
-      folder: MonteConJesus
-      temas: 
-        - titulo: 1. Seis dias depues
-        - titulo: 5. Los Elias de Hoy
-        - titulo: 9. La Revelacion de Dios
-        - titulo: 7. La Humildad y el Perdon
-        - titulo: 6. La Fe
-        - titulo: 8. Lo Espiritual y lo Carnal
-        - titulo: 3. Subir al Monte II
-        - titulo: 2. Subir al Monte I
-        - titulo: 4. A El oid
-    - titulo: Mateo
-      folder: SerieMateo
-      temas:
-        - titulo: 05 Mateo - Tema 5
-        - titulo: 16 Mateo - Tema 16
-        - titulo: 18 Mateo - Tema 18
-        - titulo: 11 Mateo - Tema 11
-        - titulo: 36 Mateo - Tema 36
-        - titulo: 48 Mateo - Tema 48
-        - titulo: 56 Mateo - Tema 56
-        - titulo: 47 Mateo - Tema 47
-        - titulo: 39 Mateo - Tema 39
-        - titulo: 30 Mateo - Tema 30
-        - titulo: 03 Mateo - Tema 3
-        - titulo: 10 Mateo - Tema 10
-        - titulo: 06 Mateo - Tema 6
-        - titulo: 08 Mateo - Tema 8
-        - titulo: 17 Mateo - Tema 17
-        - titulo: 09 Mateo - Tema 9
-        - titulo: 51 Mateo - Tema 51
-        - titulo: 31 Mateo - Tema 31
-        - titulo: 14 Mateo - Tema 14
-        - titulo: 26 Mateo - Tema 26
-        - titulo: 34 Mateo - Tema 34
-        - titulo: 37 Mateo - Tema 37
-        - titulo: 45 Mateo - Tema 45
-        - titulo: 33 Mateo - Tema 33
-        - titulo: 49 Mateo - Tema 49
-        - titulo: 40 Mateo - Tema 40
-        - titulo: 02 Mateo - Tema 2
-        - titulo: 12 Mateo - Tema 12
-        - titulo: 46 Mateo - Tema 46
-        - titulo: 15 Mateo - Tema 15
-        - titulo: 54 Mateo - Tema 54
-        - titulo: 20 Mateo - Tema 20
-        - titulo: 19 Mateo - Tema 19
-        - titulo: 42 Mateo - Tema 42
-        - titulo: 27 Mateo - Tema 27
-        - titulo: 55 Mateo - Tema 55
-        - titulo: 52 Mateo - Tema 52
-        - titulo: 29 Mateo - Tema 29
-        - titulo: 23 Mateo - Tema 23
-        - titulo: 44 Mateo - Tema 44
-        - titulo: 35 Mateo - Tema 35
-        - titulo: 13 Mateo - Tema 13
-        - titulo: 22 Mateo - Tema 22
-        - titulo: 01 Mateo - Tema 1
-        - titulo: 25 Mateo - Tema 25
-        - titulo: 41 Mateo - Tema 41
-        - titulo: 53 Mateo - Tema 53
-        - titulo: 28 Mateo - Tema 28
-        - titulo: 32 Mateo - Tema 32
-        - titulo: 24 Mateo - Tema 24
-        - titulo: 43 Mateo - Tema 43
-        - titulo: 04 Mateo - Tema 4
-        - titulo: 07 Mateo - Tema 7
-        - titulo: 21 Mateo - Tema 21
-        - titulo: 50 Mateo - Tema 50
-        - titulo: 38 Mateo - Tema 38
+        - titulo: 5. Pablo-Las Evidencias-Salvacion asegurada en Cristo
+        - titulo: 6. Pablo-La Vida en Cristo
+        - titulo: 1. Conversion de Saulo-A Dios por Fe y no por Ley
+        - titulo: 8. Pablo-Esclavo Voluntario de Dios para Siempre
+        - titulo: 2. Pablo-Encuentro con Jesus-Verdadero Arrepentimiento
+        - titulo: 7. Pablo-Objeto de la Gracia de Dios
+        - titulo: 4. Pablo-Evangelio con tradicion doctrinal
+        - titulo: 3. Pablo-Evangelio por Revelacion
 
 - nombre: Parábolas
   series:
@@ -498,76 +568,6 @@
         - titulo: 7. La Praxis del Espiritu 7
         - titulo: 8. La Praxis del Espiritu 8
         - titulo: 3. La Praxis del Espiritu 3
-
-- nombre: Transformados por su Espíritu
-  series:
-    - titulo: Bariloche, Argentina
-      folder: TransformadosporSuEspiritu/01Bariloche
-      temas:
-        - titulo: 09. Cristo Nuestra Pascua
-        - titulo: 05. Jehova los Vistio de Pieles
-        - titulo: 07. El Cordero de la Pascua
-        - titulo: 03. Antes de la Fundacion del Mundo
-        - titulo: 04. Antes de la Fundacion del Mundo II
-        - titulo: 06. Dios se Proveera de Cordero
-        - titulo: 11. Cristo Nuestra Pascua III
-        - titulo: 12. El Cordero Mediador
-        - titulo: 02. El Cordero de Dios II
-        - titulo: 10. Cristo Nuestra Pascua II
-        - titulo: 13. El Cordero Mediador II
-        - titulo: 08. Habitare entre Ellos
-        - titulo: 01. El Cordero de Dios
-    - titulo: San José, Costa Rica
-      folder: TransformadosporSuEspiritu/02CostaRica
-      temas:
-        - titulo: 05. Conocer a Dios-Una Actitud II
-        - titulo: 11. El Trono de Dios-El Espiritu Santo
-        - titulo: 04. Conocer a Dios-Una Actitud
-        - titulo: 14. Su Benignidad te Guia al Arrepentimiento
-        - titulo: 10. El Trono de Dios-El Padre
-        - titulo: 02. Miembro o Discipulo
-        - titulo: 13. Cristianismo-Asunto Legal
-        - titulo: 07. Encuentros de Arrepentimiento
-        - titulo: 06.Necesitamos Conocer a Dios
-        - titulo: 08. Quien es Dios
-        - titulo: 12. El Noe Moderno
-        - titulo: 03. El Significado de Conocer a Dios
-        - titulo: 09. Juan Conocio a la Deidad
-        - titulo: 15. Llamando Pecadores al Arrepentimiento
-        - titulo: 01. Mi Alma Tiene Contentamiento
-    - titulo: Walla Walla, USA
-      folder: TransformadosporSuEspiritu/03WallaWalla
-      temas:
-        - titulo: 6. El Espiritu Habilita los Dones Espirituales
-        - titulo: 2. Lucas-Transformado por Su Espiritu
-        - titulo: 1. Lucas-Medico Misionero
-        - titulo: 5. El Espiritu nos Transforma a Su Imagen
-        - titulo: 3. Interes del Espiritu en la Familia
-        - titulo: 4. Dios Cambia la Mente Humana
-    - titulo: Rampart 2012, TX, USA
-      folder: TransformadosporSuEspiritu/04Rampart2012
-      temas:
-        - titulo: 08. Raiz de Pecado
-        - titulo: 07. El Arrepentimiento desde la Raiz de Pecado
-        - titulo: 04. El Arrepentimiento es una Experiencia Cotidiana
-        - titulo: 02. El Arrepentimiento es un Regalo de Dios
-        - titulo: 06. El Arrepentimiento es lo que Dios hace en ti
-        - titulo: 05. El Arrepentimiento es ser Convertido en otra Persona
-        - titulo: 09. El Castigo del Fuego Eterno
-        - titulo: 01. Elementos Claves para el Arrepentimiento
-        - titulo: 10. El Arrepentimiento Negativo y Positivo
-        - titulo: 03. El Arrepentimiento es un Regalo de Dios II
-    - titulo: México, D.F.
-      folder: TransformadosporSuEspiritu/05Mexico2013
-      temas:
-        - titulo: 5. Pablo-Las Evidencias-Salvacion asegurada en Cristo
-        - titulo: 6. Pablo-La Vida en Cristo
-        - titulo: 1. Conversion de Saulo-A Dios por Fe y no por Ley
-        - titulo: 8. Pablo-Esclavo Voluntario de Dios para Siempre
-        - titulo: 2. Pablo-Encuentro con Jesus-Verdadero Arrepentimiento
-        - titulo: 7. Pablo-Objeto de la Gracia de Dios
-        - titulo: 4. Pablo-Evangelio con tradicion doctrinal
-        - titulo: 3. Pablo-Evangelio por Revelacion
 
 - nombre: Jóvenes
   series:
