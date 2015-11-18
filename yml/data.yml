@@ -443,10 +443,72 @@
 - nombre: Transformados por su Espíritu
   series:
     - titulo: Bariloche, Argentina
+      folder: TransformadosporSuEspiritu/01Bariloche
+      temas:
+        - titulo: 09. Cristo Nuestra Pascua
+        - titulo: 05. Jehova los Vistio de Pieles
+        - titulo: 07. El Cordero de la Pascua
+        - titulo: 03. Antes de la Fundacion del Mundo
+        - titulo: 04. Antes de la Fundacion del Mundo II
+        - titulo: 06. Dios se Proveera de Cordero
+        - titulo: 11. Cristo Nuestra Pascua III
+        - titulo: 12. El Cordero Mediador
+        - titulo: 02. El Cordero de Dios II
+        - titulo: 10. Cristo Nuestra Pascua II
+        - titulo: 13. El Cordero Mediador II
+        - titulo: 08. Habitare entre Ellos
+        - titulo: 01. El Cordero de Dios
     - titulo: San José, Costa Rica
+      folder: TransformadosporSuEspiritu/02CostaRica
+      temas:
+        - titulo: 05. Conocer a Dios-Una Actitud II
+        - titulo: 11. El Trono de Dios-El Espiritu Santo
+        - titulo: 04. Conocer a Dios-Una Actitud
+        - titulo: 14. Su Benignidad te Guia al Arrepentimiento
+        - titulo: 10. El Trono de Dios-El Padre
+        - titulo: 02. Miembro o Discipulo
+        - titulo: 13. Cristianismo-Asunto Legal
+        - titulo: 07. Encuentros de Arrepentimiento
+        - titulo: 06.Necesitamos Conocer a Dios
+        - titulo: 08. Quien es Dios
+        - titulo: 12. El Noe Moderno
+        - titulo: 03. El Significado de Conocer a Dios
+        - titulo: 09. Juan Conocio a la Deidad
+        - titulo: 15. Llamando Pecadores al Arrepentimiento
+        - titulo: 01. Mi Alma Tiene Contentamiento
     - titulo: Walla Walla, USA
+      folder: TransformadosporSuEspiritu/03WallaWalla
+      temas:
+        - titulo: 6. El Espiritu Habilita los Dones Espirituales
+        - titulo: 2. Lucas-Transformado por Su Espiritu
+        - titulo: 1. Lucas-Medico Misionero
+        - titulo: 5. El Espiritu nos Transforma a Su Imagen
+        - titulo: 3. Interes del Espiritu en la Familia
+        - titulo: 4. Dios Cambia la Mente Humana
     - titulo: Rampart 2012, TX, USA
+      folder: TransformadosporSuEspiritu/04Rampart2012
+      temas:
+        - titulo: 08. Raiz de Pecado
+        - titulo: 07. El Arrepentimiento desde la Raiz de Pecado
+        - titulo: 04. El Arrepentimiento es una Experiencia Cotidiana
+        - titulo: 02. El Arrepentimiento es un Regalo de Dios
+        - titulo: 06. El Arrepentimiento es lo que Dios hace en ti
+        - titulo: 05. El Arrepentimiento es ser Convertido en otra Persona
+        - titulo: 09. El Castigo del Fuego Eterno
+        - titulo: 01. Elementos Claves para el Arrepentimiento
+        - titulo: 10. El Arrepentimiento Negativo y Positivo
+        - titulo: 03. El Arrepentimiento es un Regalo de Dios II
     - titulo: México, D.F.
+      folder: TransformadosporSuEspiritu/05Mexico2013
+      temas:
+        - titulo: 5. Pablo-Las Evidencias-Salvacion asegurada en Cristo
+        - titulo: 6. Pablo-La Vida en Cristo
+        - titulo: 1. Conversion de Saulo-A Dios por Fe y no por Ley
+        - titulo: 8. Pablo-Esclavo Voluntario de Dios para Siempre
+        - titulo: 2. Pablo-Encuentro con Jesus-Verdadero Arrepentimiento
+        - titulo: 7. Pablo-Objeto de la Gracia de Dios
+        - titulo: 4. Pablo-Evangelio con tradicion doctrinal
+        - titulo: 3. Pablo-Evangelio por Revelacion
 
 - nombre: Jóvenes
   series:
