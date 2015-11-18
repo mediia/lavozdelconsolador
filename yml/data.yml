@@ -425,8 +425,8 @@
 - nombre: Parábolas
   series:
     - titulo: La Parábola de los Talentos
-      - folder: ParabolaTalentos
-      - temas:
+      folder: ParabolaTalentos
+      temas:
         - titulo: 06. Los Talentos 6
         - titulo: 05. Los Talentos 5
         - titulo: 03. Los Talentos 3
@@ -436,8 +436,8 @@
         - titulo: 04. Los Talentos 4
         - titulo: 08. Los Talentos 8
     - titulo: Las Parábolas de Jesús
-      - folder: ParabolasJesus
-      - temas:
+      folder: ParabolasJesus
+      temas:
         - titulo: 05 Las Bodas
         - titulo: 03. El Trigo y la Sizana
         - titulo: 11. Los Siervos
@@ -452,8 +452,8 @@
         - titulo: 13. Talentos y Juicio
         - titulo: 09. El Patron y los Obreros de la Vina
     - titulo: Las Parábolas de Jesús II
-      - folder: ParabolasJesusII
-      - temas:
+      folder: ParabolasJesusII
+      temas:
         - titulo: 8. Los dos grupos V - El Hijo Perdido Dentro de la Casa
         - titulo: 7. Los dos grupos IV - El Hijo Perdido II
         - titulo: 4. Los dos Grupos I - Oveja
