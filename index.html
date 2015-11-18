@@ -4,16 +4,17 @@
 	<meta name="viewport" content="initial-scale=1" />
 
 	<title>La Voz del Consolador</title>
-	
+
 	<meta property="og:title" content="Ministerio Adventista La Voz del Consolador" />
-	<meta property="og:site_name" content="La Voz del Consolador"/>
+	<meta property="og:site_name" content="La Voz del Consolador" />
 	<meta property="og:url" content="http://lavozdelconsolador.mediia.org/" />
-	<meta property="og:description" content="Nuestra misión es cumplir con el mandato del Señor Jesús de llevar a cabo la misión de alcanzar el mundo con el Evangelio eterno, 
+	<meta property="og:description" content="Nuestra misión es cumplir con el mandato del Señor Jesús de llevar a cabo la misión de alcanzar el mundo con el Evangelio eterno,
 alcanzar y ayudar a ministrar a todas las gentes, aplicando el uso de las tres praxis de enseñanza, predicación, y sanamiento como se presenta en Mateo 4:23
-y apoyar la misión de la Iglesia Adventista del Séptimo Día a través de la radio y televisión, la producción y distribución de diferentes medios de comunicación, a través de seminarios de entrenamiento, recursos basados en el internet, actividades similares y programas." />
-	<meta property="og:locale" content="es_ES" /> 
+y apoyar la misión de la Iglesia Adventista del Séptimo Día a través de la radio y televisión, la producción y distribución de diferentes medios de comunicación, a través de seminarios de entrenamiento, recursos basados en el internet, actividades similares y programas."
+	/>
+	<meta property="og:locale" content="es_ES" />
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="http://lavozdelconsolador.mediia.org/img/fb.png" /> 
+	<meta property="og:image" content="http://lavozdelconsolador.mediia.org/img/fb.png" />
 
 	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/0.11.2/angular-material.min.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -25,22 +26,23 @@ y apoyar la misión de la Iglesia Adventista del Séptimo Día a través de la r
 
 	<main class="bg">
 
-		<header>
+		<header layout="column" layout-gt-sm="row" layout-align="center center">
 			<img src="img/LaVozLogoMenu3.png">
 
-			<h1>La voz del consolador</h1>
+			<div layout="column" layout-align="center center">
+				<h1>La voz del consolador</h1>
 
-			<p class="lead">
-				Sitio oficial:
-				<a href="http://lavozdelconsolador.org" target="_blank">
-					http://lavozdelconsolador.org
-				</a>
-			</p>
-
+				<p class="lead">
+					Sitio oficial:
+					<a href="http://lavozdelconsolador.org" target="_blank">
+						http://lavozdelconsolador.org
+					</a>
+				</p>
+			</div>
 		</header>
 
 		<md-grid-list flex="80" md-cols-sm="1" md-cols-md="2" md-cols-lg="4" md-cols-gt-lg="4" md-row-height="47px" layout-fill>
-			<md-grid-tile ng-repeat="grupo in app.audios | orderBy: 'nombre'" md-rowspan="{{ grupo.series.length + 1 }}">
+			<md-grid-tile ng-repeat="grupo in app.audios" md-rowspan="{{ grupo.series.length + 1 }}">
 				<md-list layout-fill class="lvc-grupo" layout-padding>
 					<md-list-item>
 						{{ grupo.nombre }}
