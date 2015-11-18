@@ -568,5 +568,43 @@
 - nombre: English
   series:
     - titulo: Growing in Christ
+      folder: GrowinginChrist
+      temas:
+        - titulo: 07. Growing in Christ
+        - titulo: 01. It was necessary to go to Jerusalem I
+        - titulo: 14. With fear and trembling II
+        - titulo: 05. Take up your cross daily II
+        - titulo: 09. Who can this be
+        - titulo: 11. Work out your own Salvation I
+        - titulo: 06. Follow me
+        - titulo: 12. Work out your own Salvation II
+        - titulo: 04. Take up your cross daily I
+        - titulo: 13. With fear and trembling I
+        - titulo: 03. Deny yourself
+        - titulo: 08. Earthen vessels
+        - titulo: 10. Jesus is the ransom
+        - titulo: 15. With fear and trembling III
+        - titulo: 02. It was necessary to go to Jerusalem II
     - titulo: Do you know God?
+      folder: DoYouKnowGod
+      temas:
+        - titulo: 08. The Lord Shall Provide
+        - titulo: 03. Yahweh I
+        - titulo: 09. Adonai
+        - titulo: 06. The Lord of Hosts II
+        - titulo: 11. Kurios II
+        - titulo: 01. The Name
+        - titulo: 07. Who is the Lord of Hosts
+        - titulo: 02. Elohim
+        - titulo: 10. Kurios I
+        - titulo: 05. The Lord of Hosts I
+        - titulo: 04. Yahweh II
+        - titulo: 12. Kurios III
     - titulo: The Spirit in Family Life
+      folder: SpiritFamilyLife
+      temas:
+        - titulo: 05 .The Days before the Flood
+        - titulo: 01. Elohim
+        - titulo: 04. My Spirit will not Contend
+        - titulo: 03. Elohim in the Throne
+        - titulo: 02. Ruaj Elohim
