@@ -513,10 +513,57 @@
 - nombre: Jóvenes
   series:
     - titulo: Creciendo en Cristo
+      folder: CreciendoCristo
+      temas:
+        - titulo: 10. Jesus es el rescate
+        - titulo: 11. Ocupaos en vuestra salvacion I
+        - titulo: 08. Creciendo en Cristo
+        - titulo: 13. Con temor y temblor I
+        - titulo: 07. Vasos de Barro
+        - titulo: 02. Era necesario ir a Jerusalen II
+        - titulo: 12. Ocupaos en vuestra salvacion II
+        - titulo: 01. Era necesario ir a Jerusalen I
+        - titulo: 09. Vigilia
+        - titulo: 04. tome su cruz cada dia I
+        - titulo: 15. Con temor y temblor III
+        - titulo: 05. Tome su cruz cada dia II
+        - titulo: 06. Sigueme
+        - titulo: 14. Con temor y temblor II
+        - titulo: 03. Nieguese a si mismo
     - titulo: Los triunfos de Jehová
+      folder: TriunfosJehova
+      temas:
+        - titulo: 1. Daniel
+        - titulo: 7. Juan
+        - titulo: 3. Moises
+        - titulo: 8. En esta generacion
+        - titulo: 4. Josue
+        - titulo: 6. Pablo
+        - titulo: 5. Elias
+        - titulo: 2. Jose
     - titulo: La Praxis de Jesús
+      folder: PraxisJesus
+      temas:
+        - titulo: 4. La Praxis del Liderazgo
+        - titulo: 3. La Praxis del Espiritu Santo
+        - titulo: 2. Arrepentimiento Praxico
+        - titulo: 5. Jovenes Praxicos
+        - titulo: 1. Que es Praxis
+        - titulo: 6. La Praxis de Jesus
     - titulo: La Revelación de Dios
+      folder: RevelacionDios
+      temas:
+        - titulo: 1. Jesus-La Revelacion de Dios
+        - titulo: 2. La Naturaleza de la Inspiracion Profetica
+        - titulo: 3. La Revelacion de Dios
     - titulo: Apartados para Cristo
+      folder: ApartadosparaCristo
+      temas:
+        - titulo: 1. Apartado del mal
+        - titulo: 3. Temeroso de Dios II
+        - titulo: 4. Temeroso de Dios III
+        - titulo: 2. Temeroso de Dios I
+        - titulo: 5. Perfecto y Recto
 
 - nombre: English
   series:
