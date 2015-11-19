@@ -9,7 +9,7 @@
 		</div>
 	</md-toolbar>
 	<md-progress-linear class="md-accent" ng-if="player.playing && !player.audio.canPlay" md-mode="query"></md-progress-linear>
-	<div ng-repeat="tema in serie.temas | orderBy: 'titulo'" class="lvc-tema">
+	<md-list ng-repeat="tema in serie.temas | orderBy: 'titulo'" class="lvc-tema">
 		<md-list-item ng-click="play(tema)">
 				{{ tema.titulo }} &nbsp;
 				<span ng-if="player.playing === tema">{{ player.audio.currentTime | trackTime }}</span>
@@ -17,5 +17,5 @@
 				<md-icon aria-label="Play" class="material-icons" ng-if="player.playing === tema && player.paused">play_arrow</md-icon>
 		</md-list-item>
 		<md-slider ng-if="player.playing === tema" min="0" max="1" step="0.01" ng-model="player.audio.progress" aria-label="Posición">
-	</div>
+	</md-list>
 </md-dialog>
