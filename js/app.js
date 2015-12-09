@@ -54,7 +54,8 @@ function appController($http, $mdDialog, ngAudio) {
 
 function dialogController($scope, $mdDialog, serie, ngAudio, $http) {
 
-	var base = 'http://lavozdelconsolador.org/audioseries'
+	//var base = 'http://lavozdelconsolador.org/audioseries'
+	var base = 'http://lvdc.cdn.mediia.org/audioseries'
 
 	$scope.player = {
 		playing: null,
